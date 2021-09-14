@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzace&label=Profile%20views&color=0e75b6&style=flat" alt="mirzace" /> </p>
 
-<span align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzace&show_icons=true&locale=en" alt="mirzace" /></span>
-<span align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirzace&" alt="mirzace" /></span>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzace&show_icons=true&locale=en" alt="mirzace" /></div>
+</br>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirzace&" alt="mirzace" /></div>
 
 </br>
 
